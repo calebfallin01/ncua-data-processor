@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+
+# Logs and temporary files
+logs/
+*.log
+output/
+*/temp_extract/
+check_output.txt
+current_run.log
+fixed_run.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Input/output data
+input/*.zip
+input/*.txt
+output/*.zip
+output/*.txt 
